@@ -15,7 +15,7 @@ function sayHiToGrandma(string) {
  return string
 } 
 function sayHiToGrandma(string) {
-  if console.log()
+  if console.log("YES INDEED!")
   return "YES INDEED!"
 }
 function sayHiToGrandma(string) {
